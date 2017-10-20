@@ -87,3 +87,12 @@ table.dataTable thead .sorting_desc:after {
 table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_desc_disabled:after {
   color: #eee
 }
+
+.modal-loading {
+  width: 20%;
+  text-align: center;
+}
+
+.box-loading {
+  background-color: lightgrey;
+}
