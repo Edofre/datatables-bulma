@@ -244,6 +244,10 @@
 
             label.parent().parent().append(searchInput).addClass('control is-horizontal');
         }
+
+        $('#' + settings.sInstance + "_processing").html(
+            '<div class="modal is-active"><div class="modal-content modal-loading"><div class="box box-loading">Bezig...</div></div></div>'
+        );
     };
 
     return DataTable;
