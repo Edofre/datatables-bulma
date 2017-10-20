@@ -1,0 +1,25 @@
+{
+  "name": "datatables-bulma",
+  "version": "1.0.0",
+  "description": "Bulma styling for jQuery datatables",
+  "main": "src/js/datatables-bulma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edofre/datatables-bulma.git"
+  },
+  "keywords": [
+    "bulma",
+    "datatables",
+    "jquery",
+    "css"
+  ],
+  "author": "Edo Freriks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edofre/datatables-bulma/issues"
+  },
+  "homepage": "https://github.com/Edofre/datatables-bulma#readme"
+}
