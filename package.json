@@ -1,6 +1,6 @@
 {
   "name": "datatables-bulma",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Bulma styling for jQuery datatables",
   "main": "src/js/datatables-bulma.js",
   "scripts": {
