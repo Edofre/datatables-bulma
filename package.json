@@ -1,5 +1,5 @@
 {
-  "name": "datatables-bulma",
+  "name": "datatables-bulma-jquery",
   "version": "0.0.1",
   "description": "Bulma styling for jQuery datatables",
   "main": "src/js/datatables-bulma.js",
