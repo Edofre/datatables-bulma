@@ -7,6 +7,14 @@ Bulma styling for the jQuery integration of datatables, see following sites for 
 
 ## Installation
 
+```
+npm i datatables-bulma-jquery
+```
+
+```javascript
+var $ = require( 'jquery' );
+require( 'datatables-bulma-jquery' )( window, $ );
+```
 
 ## Usage
 
